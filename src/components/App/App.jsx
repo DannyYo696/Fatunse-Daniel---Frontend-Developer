@@ -5,8 +5,6 @@ import FilterForm from '../FilterForm';
 import Header from '../Header';
 import HeroBanner from '../HeroBanner';
 import NotFound from '../NotFound';
-import Rocket from '../Rocket';
-import RocketList from '../RocketList';
 
 export default function App() {
 	return (
